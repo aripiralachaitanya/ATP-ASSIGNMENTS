@@ -1,2 +1,2 @@
 # ATP-ASSIGNMENTS
-Assignments of 
+Assignments of ATP Sessions
