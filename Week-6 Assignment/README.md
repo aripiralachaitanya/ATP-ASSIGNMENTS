@@ -1,6 +1,6 @@
 # Week 6 Progress Report
 
-# Blog Application Development
+# Users and Author Application Development
 
 ## Project Overview
 Created a full-stack Blog Application with both:
